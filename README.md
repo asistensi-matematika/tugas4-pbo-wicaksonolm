@@ -1,8 +1,8 @@
 # TUGAS 4 ASISTENSI PBO - Jumat, 11 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: wicaksono leksono muhamad
 
-NRP: `isi nrp disini`
+NRP: 06111840000088
 
 ## Deskripsi Tugas
 
@@ -36,3 +36,7 @@ masukkan screenshot output disini
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
+![image](https://user-images.githubusercontent.com/56147147/67094938-fcedfe00-f1de-11e9-8d31-ccdd40bb5a73.png)
+![image](https://user-images.githubusercontent.com/56147147/67094957-09725680-f1df-11e9-9127-0da69afe242b.png)
+![image](https://user-images.githubusercontent.com/56147147/67094994-1abb6300-f1df-11e9-8f2b-b52f647b523a.png)
+![image](https://user-images.githubusercontent.com/56147147/67095036-2eff6000-f1df-11e9-9c89-f7fb40aee861.png)
